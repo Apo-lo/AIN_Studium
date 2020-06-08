@@ -1,0 +1,36 @@
+Test 1)
+Rechteck mit den Werten 5/10 ertsellen und ausgeben
+Erwartet -> 5 10
+Ergebnis -> 5 10
+
+Test 2)
+Quader mit den Werten 5/10/15 erstellen und ausgeben
+Erwartet -> 5 10 15
+Ergebnis -> 5 10 15
+
+Test 3)
+Umfang des Rechtecks aus Test 1
+Erwartet ->30
+Ergebnis -> 30
+
+Test 4)
+Fläche des Rechtecks aus Test 1
+Erwartet -> 50
+Ergebnis -> 50
+
+Test 5)
+Volumen des Quaders aus Test 2
+Erwartet -> 750
+Ergebnis -> 750
+
+Test 6)
+Fläche des Quaders
+Erwartet -> 550
+Ergebnis -> 550
+
+Test 7)
+Fläche und Umfang des Bodens des Quaders
+Erwartet -> 50 30
+Ergebnis -> 50 30
+
+Die Oberklasse sollte Quader sein und nicht Rechteck da man um von einem Quader ein Rechteck zu berechenn keine weitere Variable benötigt.
